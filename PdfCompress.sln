@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCompress", "PdfCompress\PdfCompress.csproj", "{6871CEEC-7A1C-4159-B5C3-5BD6671819AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6871CEEC-7A1C-4159-B5C3-5BD6671819AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6871CEEC-7A1C-4159-B5C3-5BD6671819AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6871CEEC-7A1C-4159-B5C3-5BD6671819AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6871CEEC-7A1C-4159-B5C3-5BD6671819AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43D4B0A-3033-493B-A3B7-6FD796DE5DCE}
+	EndGlobalSection
+EndGlobal
